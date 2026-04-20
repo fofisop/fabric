@@ -1,0 +1,1 @@
+This is a project that I made for fun, as I love fashion and textiles. I learned how to do some cool spinning card mechanics for this, and I really enjoyed putting together the css, html, and js to made a well working textile project!
